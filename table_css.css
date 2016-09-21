@@ -1,0 +1,39 @@
+
+
+table {
+
+    width: 70%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    align-content: center;
+
+}
+
+#gray{
+  background-color: lightgrey;
+}
+#yellow{
+  background-color: yellow;
+}
+
+#dotted{
+
+  width: auto;
+  border:1px dashed black;
+
+}
+.nobod{
+
+  border:0;
+}
+
+.boxed{
+  border: 1px solid black;
+  width:50%;
+  text-align:left;
+  position:relative;
+  top:4px;
+  left:18.5%;
+  right:inherit;
+
+}
